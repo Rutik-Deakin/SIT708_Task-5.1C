@@ -1,0 +1,6 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/image_news"
+    android:layout_width="200dp"
+    android:layout_height="150dp"
+    android:layout_marginHorizontal="4dp"
+    android:scaleType="centerCrop" />
